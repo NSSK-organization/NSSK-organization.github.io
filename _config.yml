@@ -4,7 +4,7 @@ email: qweenjon [at] gmail
 quote: "\"balls\""
 description: "NSSK, Nishant Kompella's thought process"
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://gabrieldwu.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://nssk-organization.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 github_username: infection-tag
 show_tags: true
 
