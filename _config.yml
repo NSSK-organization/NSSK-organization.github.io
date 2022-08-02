@@ -10,6 +10,6 @@ show_tags: true
 
 page_excerpts: true
 
-theme: lanyon
+theme: minima
 plugins:
   - jekyll-feed
